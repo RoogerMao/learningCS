@@ -2,3 +2,5 @@
 - Functions
   - Return values (and void functions)
   - Parameters
+  - Variable scope and pass by value
+  - 
